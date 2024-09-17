@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caesar707" alt="caesar707" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Muhmdmarie" target="blank"><img src="https://img.shields.io/twitter/follow/Muhmdmarie?logo=twitter&style=for-the-badge" alt="Muhmdmarie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhamdadamm" target="blank"><img src="https://img.shields.io/twitter/follow/muhamdadamm?logo=twitter&style=for-the-badge" alt="muhamdadamm" /></a> </p>
 
 - 🔭 I’m currently working on **Customise FaceTime Device Application**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Muhmdmarie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhmdmarie" height="30" width="40" /></a>
+<a href="https://twitter.com/muhamdadamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamdadamm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mu7mad-adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mu7mad-adam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammad-adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-adam" height="30" width="40" /></a>
 </p>
